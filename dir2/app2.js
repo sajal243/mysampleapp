@@ -1,0 +1,1 @@
+console.log("This is App2 js file");
